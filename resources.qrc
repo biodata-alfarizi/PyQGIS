@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>mActionReupdate.png</file>
+        <file>mActionHutanAlam.png</file>
+        <file>mActionZoomIn.png</file>
+        <file>mActionZoomOut.png</file>
+        <file>mActionPan.png</file>
+        <file>mActionExplore.png</file>
+        <file>mActionKSATBS.png</file>
+        <file>mActionKSARIAU.png</file>
+        <file>mActionLindung.png</file>
+        <file>mActionHTI.png</file>
+        <file>mActionTertentu.png</file>
+        <file>mActionKPH.png</file>
+    </qresource>
+</RCC>
+
